@@ -5,8 +5,8 @@
       <stop offset="100%" stop-color="#319060"/>
     </linearGradient>
   </defs>
-  <!-- Option A: Bold FAB, gradient text, transparent background -->
-  <text x="50" y="72" text-anchor="middle"
+  <!-- FAB: reduced font size with padding to ensure all letters visible -->
+  <text x="50" y="67" text-anchor="middle"
         font-family="Arial Black, Arial, sans-serif" font-weight="900"
-        font-size="68" fill="url(#g)" letter-spacing="-2">FAB</text>
+        font-size="52" fill="url(#g)" letter-spacing="-1">FAB</text>
 </svg>
